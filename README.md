@@ -1,6 +1,10 @@
 # Product Store Application with Chakra UI
 This project is a full-stack web application built using the MERN stack (MongoDB, Express, React, Node.js) and styled with Chakra UI. The application performs CRUD operations (Create, Read, Update, Delete) on product data and provides an interactive and responsive user interface..
 
+## Deployed Link
+[Live Wesbite](https://productstore-mern-1-yvt0.onrender.com/create)
+
+
 ## Features
 Add a new product with relevant details.
 
@@ -46,6 +50,8 @@ npm install
 ```
 
 **Create a .env file in the root directory and add your MongoDB URI:**
+
+
 
 ## 5. Run the development server:
 ```bash
